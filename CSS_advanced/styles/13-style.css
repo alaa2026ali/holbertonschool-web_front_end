@@ -68,22 +68,9 @@ a:active {
 .section-header {
     text-align: var(--section-header-align);
 }
-{
-    color: var(--text-color);
-text-decoration: none;
-}
 
-.visually-hidden {
-    display: none;
-}
 
-.card-category {
-    color: var(--color-primary);
-}
 
-.section-header {
-    text-align: var(--section-header-align);
-}
 .section-title {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
