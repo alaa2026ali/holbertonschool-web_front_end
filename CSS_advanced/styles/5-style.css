@@ -18,19 +18,14 @@
 html {
     scroll-behavior: smooth;
     font-size: 62.5%;
-=======
 }
 html {
     scroll-behavior: smooth;
->>>>>>> a5b672e (Add files task 5)
     }
 body {
         color: var(--text-color);
 	font-family: var(--font-family-base);
-<<<<<<< HEAD
   font-size: var(--font-size-medium);
-=======
->>>>>>> a5b672e (Add files task 5)
 }
 
 a {
