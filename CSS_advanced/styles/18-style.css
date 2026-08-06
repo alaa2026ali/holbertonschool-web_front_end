@@ -475,12 +475,11 @@ h6 {
 .footer {
     padding: var(--footer-padding);
 }
-.nav {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  text-align: center;
+
+.navbar-menu {
+    float: right;
 }
+
 .nav {
     margin: 0;
     padding: 0;
