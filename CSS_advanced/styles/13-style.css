@@ -56,10 +56,10 @@ a:hover {
 a:active {
     background-color: var(--color-light-grey);
 }
+
 .visually-hidden {
     display: none;
 }
-
 .visually-hidden {
     display: none;
 }
