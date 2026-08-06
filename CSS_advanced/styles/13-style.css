@@ -28,12 +28,10 @@
   --font-weight-regular: 400;
 --font-weight-bold: 700;
 }
-
 html {
     scroll-behavior: smooth;
     font-size: 62.5%;
     }
-
 body {
         color: var(--text-color);
 	font-family: var(--font-family-base);
@@ -58,6 +56,9 @@ a:hover {
 a:active {
     background-color: var(--color-light-grey);
 }
+.visually-hidden {
+    display: none;
+}
 
 .visually-hidden {
     display: none;
@@ -70,7 +71,6 @@ a:active {
 .section-header {
     text-align: var(--section-header-align);
 }
-
 .section-title {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
@@ -78,14 +78,12 @@ a:active {
     margin: var(--section-title-margin);
     color: var(--section-title-color);
 }
-
 .section-tagline {
      color: var(--color-primary);
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
 }
-
 h1,
 h2,
 h3,
