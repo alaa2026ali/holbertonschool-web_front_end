@@ -42,7 +42,7 @@ body {
 
 a[href] {
     color: var(--text-color);
-    text-decoration: none;
+text-decoration: none;
 }
 
 a:visited {
