@@ -539,14 +539,21 @@ ul.row {
     --section-title-color: var(--color-white);
     background-color: var(--color-black);
 }
+/* Style the footer-address class */
 .footer-address {
-    color: var(--text-color);
+  /* Set the color of the text to the text-color property */
+  color: var(--text-color);
 }
 
+/* Style the social-link class */
 .social-link {
-    display: block;
+  /* Style it so that it renders as a block element */
+  display: block;
 }
 
+/* Style the social-link class that also selects the svg children */
 .social-link svg {
-    fill: var(--text-color);
+  /* Fill in the color of the svg children with the text-color variable */
+  fill: var(--text-color);
 }
+
